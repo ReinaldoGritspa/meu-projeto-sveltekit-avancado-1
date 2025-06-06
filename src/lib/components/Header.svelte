@@ -2,7 +2,7 @@
   <button class="navbar-toggler" data-bs-toggle="offcanvas" data-bs-target="#mySideBar" aria-label="toggleSidebar">
     <i class="bi bi-list"></i>
   </button>
-  <a class="navbar-brand" href="/">FrameWorks</a>
+  <a class="navbar-brand" href="/"> Página Inicial </a>
   <button class="navbar-toggler" data-bs-toggle="offcanvas" data-bs-target="#navbarText" aria-label="toggleNavbar">
     <i class="bi bi-three-dots-vertical"></i>
   </button>
@@ -12,12 +12,15 @@
       <button class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
     </div>
     <div class="offcanvas-body">
-      <ul class="navbar-nav me-auto">
+      <ul class="navbar-nav">
         <li class="nav-item">
-          <a class="nav-link active" href="/01">Cap 01</a>
+          <a class="nav-link active"  href="/03/external/dummy/users"> Users </a>
         </li>
         <li class="nav-item">
-          <a class="nav-link active" href="/02">Cap 02</a>
+          <a class="nav-link active" href="/03/pokemon"> Pokemon </a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="/03/formulario"> Formulario </a>
         </li>
       </ul>
     </div>
