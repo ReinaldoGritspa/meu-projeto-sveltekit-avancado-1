@@ -30,7 +30,22 @@
         </li>
         <li class="nav-item">
           <a class="nav-link" href="/06/post">
-            <i class="bi bi-envelope-at me-2"></i> Senha e E-mail
+            <i class="bi bi-lock me-2"></i> Senha e E-mail
+          </a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="/06/cadastro-produto">
+            <i class="bi bi-box-seam me-2"></i> Cadastro Produto
+          </a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="/06/cadastro-usuario">
+            <i class="bi bi-person-plus me-2"></i> Cadastro Usuário
+          </a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="/06/inscricao">
+            <i class="bi bi-card-checklist me-2"></i> Inscrição
           </a>
         </li>
       </ul>
