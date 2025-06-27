@@ -48,6 +48,11 @@
             <i class="bi bi-card-checklist me-2"></i> Inscrição
           </a>
         </li>
+        <li class="nav-item">
+          <a class="nav-link" href="/07/irmandade">
+            <i class="bi bi-card-checklist me-2"></i> Irmandade
+          </a>
+        </li>
       </ul>
     </div>
   </div>
